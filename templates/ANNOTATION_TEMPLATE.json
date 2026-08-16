@@ -1,0 +1,58 @@
+{
+  "schema_version": "0.4.0-draft",
+  "image_id": "",
+  "record_state": "coarse_annotated",
+  "annotation_history": [
+    {
+      "stage": "coarse_annotation",
+      "source": "human",
+      "tool_or_model": null,
+      "annotator_role": "annotation volunteer",
+      "date": null,
+      "result": "created"
+    }
+  ],
+  "graphical_annotation": {
+    "status": "not_created",
+    "file": null,
+    "tool": null,
+    "annotator_role": null,
+    "date": null
+  },
+  "instances": [
+    {
+      "instance_id": "",
+      "coarse_confidence": null,
+      "geometry": {
+        "labelme_group_id": null,
+        "shape_types": []
+      },
+      "label": "",
+      "loc": "",
+      "mat": null,
+      "description": {
+        "morph": "",
+        "extent_module": null,
+        "context": "",
+        "severity": null
+      },
+      "cause": {
+        "main_cause": null,
+        "evidence": null,
+        "manifestations": [],
+        "confidence": null,
+        "checks": [],
+        "risk": []
+      },
+      "remedy": {
+        "target": null,
+        "principles": [],
+        "preconditions": [],
+        "steps": [],
+        "acceptance": [],
+        "donts": [],
+        "maintenance": []
+      }
+    }
+  ]
+}

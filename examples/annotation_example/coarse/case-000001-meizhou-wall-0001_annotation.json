@@ -1,0 +1,126 @@
+{
+  "schema_version": "0.4.0-draft",
+  "image_id": "case-000001-meizhou-wall-0001",
+  "record_state": "coarse_annotated",
+  "annotation_history": [
+    {
+      "stage": "coarse_annotation",
+      "source": "ai",
+      "tool_or_model": "OpenAI Codex (GPT-5)",
+      "annotator_role": "AI coarse annotator",
+      "date": "2026-08-09",
+      "result": "created"
+    }
+  ],
+  "graphical_annotation": {
+    "status": "not_created",
+    "file": null,
+    "tool": null,
+    "annotator_role": null,
+    "date": null
+  },
+  "instances": [
+    {
+      "instance_id": "case-000001-meizhou-wall-0001-d01",
+      "coarse_confidence": null,
+      "geometry": {
+        "labelme_group_id": null,
+        "shape_types": []
+      },
+      "label": "staining",
+      "loc": "exterior plastered wall, lower area below and between the two ventilation openings",
+      "mat": "plaster/coating",
+      "description": {
+        "morph": "broad irregular dark gray to black area staining with mottled edges",
+        "extent_module": "covers most of the lower two-thirds of the visible wall and extends beneath both openings",
+        "context": "lighter damp-looking discoloration appears above the dark areas; local coating and plaster loss is also visible",
+        "severity": "severe"
+      },
+      "cause": {
+        "main_cause": null,
+        "evidence": null,
+        "manifestations": [],
+        "confidence": null,
+        "checks": [],
+        "risk": []
+      },
+      "remedy": {
+        "target": null,
+        "principles": [],
+        "preconditions": [],
+        "steps": [],
+        "acceptance": [],
+        "donts": [],
+        "maintenance": []
+      }
+    },
+    {
+      "instance_id": "case-000001-meizhou-wall-0001-d02",
+      "coarse_confidence": null,
+      "geometry": {
+        "labelme_group_id": null,
+        "shape_types": []
+      },
+      "label": "material loss",
+      "loc": "exterior plastered wall, lower central area below the gap between the two ventilation openings",
+      "mat": "plaster/coating",
+      "description": {
+        "morph": "irregular area of surface loss with a light exposed substrate and broken uneven edges",
+        "extent_module": "approximately one-quarter of the width of the right ventilation opening",
+        "context": "surrounded by dark staining and intersected by visible cracking",
+        "severity": "moderate"
+      },
+      "cause": {
+        "main_cause": null,
+        "evidence": null,
+        "manifestations": [],
+        "confidence": null,
+        "checks": [],
+        "risk": []
+      },
+      "remedy": {
+        "target": null,
+        "principles": [],
+        "preconditions": [],
+        "steps": [],
+        "acceptance": [],
+        "donts": [],
+        "maintenance": []
+      }
+    },
+    {
+      "instance_id": "case-000001-meizhou-wall-0001-d03",
+      "coarse_confidence": null,
+      "geometry": {
+        "labelme_group_id": null,
+        "shape_types": []
+      },
+      "label": "cracking",
+      "loc": "exterior plastered wall, central band between and below the ventilation openings",
+      "mat": "plaster/coating",
+      "description": {
+        "morph": "mainly vertical irregular linear cracking with local branching and a short horizontal segment",
+        "extent_module": "visible in several segments over roughly one opening height",
+        "context": "cracks pass through heavily stained areas and approach the local area of surface loss",
+        "severity": "moderate"
+      },
+      "cause": {
+        "main_cause": null,
+        "evidence": null,
+        "manifestations": [],
+        "confidence": null,
+        "checks": [],
+        "risk": []
+      },
+      "remedy": {
+        "target": null,
+        "principles": [],
+        "preconditions": [],
+        "steps": [],
+        "acceptance": [],
+        "donts": [],
+        "maintenance": []
+      }
+    }
+  ]
+}

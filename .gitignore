@@ -1,0 +1,9 @@
+# Local editor state
+.obsidian/
+
+# Local backup copy
+README - 副本.md
+
+# Operating-system files
+.DS_Store
+Thumbs.db

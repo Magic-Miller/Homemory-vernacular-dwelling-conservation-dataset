@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Citation information will be finalized with the first public dataset release."
+title: "Open Dataset for Historic Vernacular Dwelling Conservation"
+type: dataset
+version: 0.0.1
+authors:
+  - name: "Project contributors"

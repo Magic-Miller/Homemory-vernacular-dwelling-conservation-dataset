@@ -1,0 +1,115 @@
+CONTRIBUTION AND CONSENT FORM
+Open Dataset for Historic Vernacular Dwelling Conservation
+Form version: 1.0 (2026-08-16)
+
+HOW TO USE THIS FORM
+
+1. Download this text file.
+2. Type your answers in the blank spaces and replace [ ] with [X] for your choices.
+3. Normally complete one form for one building case. Complete another form if the
+   photographs have different creators, permissions, attribution choices, or location restrictions.
+4. Email the completed form together with the original photographs. Follow the email
+   instructions in CONTRIBUTING.md.
+5. Do not upload a completed form, signature, contact details, or permission evidence to GitHub.
+
+A. CONTRIBUTION INFORMATION
+
+Contributor name or private contributor ID:
+Email address:
+Date:
+Country or region:
+City or general locality:
+Number of photographs:
+Short visible description of the building or photographed area:
+
+B. REQUIRED DECLARATIONS
+
+Mark every applicable statement with [X].
+
+[ ] I created the submitted material or have sufficient authority to submit it.
+[ ] The submission does not knowingly infringe another person's copyright or other rights.
+[ ] I followed applicable access and safety rules when taking the photographs.
+[ ] Where required, I obtained permission from the owner, occupant, custodian, or community authority.
+[ ] I have identified any faces, private interiors, addresses, documents, sensitive locations,
+    or culturally restricted information in the submission.
+[ ] I understand that the project may reject, redact, restrict, or remove submitted material.
+[ ] I am legally able to provide this permission, or an authorized guardian or representative
+    has provided it.
+
+C. PUBLIC RELEASE AND DATA USE
+
+Material cannot enter a public dataset release unless every statement below is marked [X].
+
+[ ] I authorize the project to store, review, organize, rename, format-convert, redact,
+    annotate, and prepare the accepted material for release.
+[ ] I authorize accepted photographs, annotations, and public metadata to be released
+    under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+[ ] I understand that CC BY 4.0 permits commercial and non-commercial copying,
+    redistribution, and adaptation with attribution.
+[ ] I understand that released material may be used to train, evaluate, or develop AI systems.
+[ ] I understand that the project may remove material from future releases but cannot guarantee
+    deletion of copies already lawfully downloaded or redistributed by others.
+
+D. PUBLIC ATTRIBUTION
+
+Choose one option.
+
+[ ] Use my full name:
+[ ] Use this pseudonym:
+[ ] Credit me collectively as a project contributor.
+[ ] Do not name me publicly.
+
+E. PROPERTY, OCCUPANT, AND COMMUNITY PERMISSION
+
+Choose all that apply.
+
+[ ] No additional permission was required for this contribution.
+[ ] Owner permission was obtained.
+[ ] Occupant permission was obtained.
+[ ] Site custodian or institutional permission was obtained.
+[ ] Community or customary-authority permission was obtained.
+[ ] Permission is limited; explain the restriction below.
+
+Permission or restriction notes:
+
+F. PUBLIC LOCATION PRECISION
+
+Choose the most precise location that may be made public.
+
+[ ] Country or broad region only.
+[ ] Province, state, or equivalent region.
+[ ] City or locality.
+[ ] More precise location, as explained below.
+[ ] Do not publish the location.
+
+Location notes:
+
+G. OPTIONAL STORIES AND ORAL HISTORIES
+
+Choose one option.
+
+[ ] No story or oral-history material is included.
+[ ] Story material is included for private project review only.
+[ ] I authorize the identified story material for public release under CC BY 4.0 and confirm
+    that I have authority to provide it.
+
+Story permission notes:
+
+H. CONFIRMATION
+
+By typing my name below and sending this completed form from my email account, I confirm
+that the information and choices above are accurate.
+
+Contributor or authorized representative name:
+Typed signature or other confirmation:
+Date:
+
+FOR PROJECT USE ONLY
+
+Submission ID:
+Form received date:
+Intake reviewer:
+Consent status:
+Rights status:
+Privacy status:
+Assigned case ID, if accepted:
